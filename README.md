@@ -1,5 +1,7 @@
 # My Pi-hole Lists
 
+> **Fork Notice:** This is a personal fork of [stevejenkins/my-pihole-lists](https://github.com/stevejenkins/my-pihole-lists) with customizations for my network.
+
 Custom blocklists and whitelists for Pi-hole DNS filtering.
 
 ## Lists
